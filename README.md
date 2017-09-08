@@ -12,5 +12,5 @@
  - index.html
  - img/
 
-September 7, 2017
+*September 7, 2017*
 ----
